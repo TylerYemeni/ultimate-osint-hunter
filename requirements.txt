@@ -1,0 +1,4 @@
+متطلبات أدوات OSINT
+
+sherlock maigret holehe social-analyzer theHarvester ghunt phoneinfoga requests termcolor
+
